@@ -1,0 +1,7 @@
+# exclude logs
+*.aux
+*.log
+*.toc
+*.fls
+*.synctex.gz
+*.fdb_latexmk
